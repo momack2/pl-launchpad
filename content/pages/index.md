@@ -20,7 +20,7 @@ blocks:
       ornaments:
         - alignment: bottom-left
     label: ''
-    headline: BLAST OFF INTO WEB3 WITH LAUNCHPAD
+    headline: LIFTOFF INTO WEB3 WITH LAUNCHPAD
     subhead: ''
     body: ''
     _template: banner
@@ -42,10 +42,9 @@ blocks:
     label: ''
     headline: ''
     subhead: >-
-      Launchpad is a hiring & onboarding program designed for accelerating
-      technical growth in the Web3 space.
+      Launchpad is a 6-week hiring & onboarding program designed to accelerate technical talent into Web3.
     body: >
-      Launchpad aims to hire exceptional talent from diverse engineering and
+      Launchpad aims to hire and onboard exceptional talent from diverse engineering and
       tech operations backgrounds into a six-week, full-time residency designed
       to train, develop, and team-match talent with Web3 opportunities across
       the Protocol Labs Network.
@@ -113,8 +112,8 @@ blocks:
     headline: Onboard
     subhead: ''
     body: >
-      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects
-      in the Protocol Labs Network in this 6 week program
+      Learn about IPFS, libp2p, & Filecoin and gain exposure to the 400+ web3 projects
+      and companies in the Protocol Labs Network in this 6 week onboarding program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
